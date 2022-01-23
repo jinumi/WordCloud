@@ -1,5 +1,6 @@
 # WordCloud
 ![Output Image](https://github.com/Umair-Yaqub/WordCloud/blob/cb7bd89b1bae8ee8a1e3412728b7d55ef64e38bc/Word_Cloud_Output.png)
+<br><br>
 This project, creates a "word cloud" from a text by writing a script.  This script needs to process the text, remove punctuation, ignore case and words that do not contain all alphabets, count the frequencies, and ignore uninteresting or irrelevant words.  A dictionary is the output of the `calculate_frequencies` function.  The `wordcloud` module will then generate the image from dictionary.
 For the input text of script, you will need to provide a file that contains text only(I have included that file in the repository "Word_Cloud_Text.txt").
 <br><br>
